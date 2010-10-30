@@ -1,0 +1,3 @@
+[submodule "evan/haxe-complete"]
+	path = evan/haxe-complete
+	url = http://github.com/aharrison/haxe-complete.git
