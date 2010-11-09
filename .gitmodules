@@ -1,3 +1,6 @@
 [submodule "evan/haxe-complete"]
 	path = evan/haxe-complete
 	url = http://github.com/aharrison/haxe-complete.git
+[submodule "evan/coffee-mode"]
+	path = evan/coffee-mode
+	url = https://github.com/defunkt/coffee-mode.git
